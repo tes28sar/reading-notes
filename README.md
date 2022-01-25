@@ -1,37 +1,19 @@
-## Reading Notes
+# **The Growth Mindset Competency**
+## _Demonstrated by commitment to continuous improvement through adaptability, optimism, curiosity, and openness to feedback_
+-	**Adaptability** 
+1.	_Ability to cope with change positively and constructively. Actively seeks information to tests assumptions. Shifts approach in response to the demands of a changing situation by demonstrating resilience_
+-	**Curiosity**
+2.	_Demonstrates a inquisitive and wondering nature that actively digs deep to explore options and solutions. Constantly asks questions to learn more about business alignment and prioritization_ 
+-	**Constant Improvement**
+3.	_Continuously invests in personal and professional growth. Stays technically relevant by being aware of new technologies and practices. Knows the latest industry trends by reading books, blogs, attending workshops, meetups, classes and conferences_
+-	**Handling Ambiguity** 
+4.	_Functions effectively on limited information and not fully understanding the whole picture. Finds a way forward when there aren't clear next steps and works through open ended questions while maintaining a constructive attitude in times of stress. Can participate in creation of solid design with vague requirements. Can change strategies quickly when initial approach doesn’t work_
+-	**Inclusivity** 
+5.	_Embraces diversity of thought, work style, perspective, and experiences outside of one’s own experiences. Actively involves people who might otherwise be excluded or marginalized because of race, gender, learning/physical disabilities, lifestyles, or having a different points of view. Emotionally aware and accountable when speaking up with questions and opinions_ 
+-	**Openness** 
+6.	_Seeks and listens to feedback about their work, and takes appropriate action in response. Open to new ideas, processes, and ways of getting things done. Focuses on positive outcomes while taking responsibility for poor results_ 
+-	**Ambition and Initiative**
+7.	_Demonstrates personal drive without needing recognition or reward. When there is downtime, finds a productive task. Exhibits a bias for action with a strong will to accomplish task with excellence_
 
-You can use the [editor on GitHub](https://github.com/tes28sar/reading-notes/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tes28sar/reading-notes/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
