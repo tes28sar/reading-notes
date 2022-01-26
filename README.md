@@ -1,4 +1,6 @@
-    # **The Growth Mindset Competency**
+  [HOME](https://tes28sar.github.io/reading-notes/)
+  https://tes28sar.github.io/reading-notes/
+ # **The Growth Mindset Competency**
 ## _Demonstrated by commitment to continuous improvement through adaptability, optimism, curiosity, and openness to feedback_
 -	**Adaptability** 
 1.	_To me, this means the ability to go with the flow. Get used to new things, and new ways of doing something_
