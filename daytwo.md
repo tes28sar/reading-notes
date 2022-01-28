@@ -1,5 +1,6 @@
  
-   [here](https://tes28sar.github.io/reading-notes/daytwo)
+   
+   
  
  ## Types of Text Editors 
     1. Visual Studio Code
