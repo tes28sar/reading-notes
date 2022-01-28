@@ -1,5 +1,5 @@
  
- [@Sara](https://github.com/tes28sar/reading-notes/edit/main/daytwo.md)
+ [@Sara]( https://tes28sar.github.io/reading-notes/daytwo)
  ## Types of Text Editors 
     1. Visual Studio Code
     2. Adam 
