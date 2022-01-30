@@ -1,5 +1,8 @@
   [HOME](https://tes28sar.github.io/reading-notes/)
   https://tes28sar.github.io/reading-notes/
+
+[daytwo](daytwo.md)
+
  # **The Growth Mindset Competency**
 ## _Demonstrated by commitment to continuous improvement through adaptability, optimism, curiosity, and openness to feedback_
 -	**Adaptability** 
