@@ -1,4 +1,6 @@
- ## Types of Text Editors 
+ 
+      
+      ## Types of Text Editors 
     1. Visual Studio Code
     2. Adam 
     3. Note pad ++ 
