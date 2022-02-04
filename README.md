@@ -5,6 +5,16 @@
 
 [reading-three](reading-three.md)
 
+[reading four](readingfour.md)
+
+[reading five](dayfive.md) 
+
+[reading six](readingsix).md)
+
+[reading seven](readingseven.md) 
+
+[reading eight](dayeight.md)
+
  # **The Growth Mindset Competency**
 ## _Demonstrated by commitment to continuous improvement through adaptability, optimism, curiosity, and openness to feedback_
 -	**Adaptability** 

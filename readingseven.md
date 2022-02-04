@@ -41,7 +41,8 @@ _The three most common loops are_
 
  
 
-• for 
+pwd
+p• for 
 
 • while 
 
